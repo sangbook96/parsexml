@@ -25,8 +25,8 @@ allprojects {
 		}
 	}
   
-  dependencies {
-	        implementation 'com.github.sangbook96:common:version'
+dependencies {
+	        implementation 'com.github.sangbook96:parsexml:tag'
 	}
  ```
 
