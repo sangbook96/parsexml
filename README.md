@@ -17,6 +17,19 @@ The library requires to mark data class and each field which should be parsed wi
   * Simple installation by downloading via gradle;
 
 ### simpleXMLParser Documentation
+Config in android
+```gradle
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+  
+  dependencies {
+	        implementation 'com.github.sangbook96:common:version'
+	}
+ ```
 
 #### simpleXMLParser API: 
 
