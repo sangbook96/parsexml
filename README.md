@@ -1,5 +1,4 @@
-# parsexml
-Parse xml
+
 # simpleXMLParser
 
 [![codebeat badge](https://codebeat.co/badges/3211f6de-04cc-4b2a-940e-21a015181cb0)](https://codebeat.co/projects/github-com-vmalikov-simplexmlparser-master)
